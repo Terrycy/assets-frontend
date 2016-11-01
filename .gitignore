@@ -4,8 +4,11 @@
 *.iml
 .idea
 
+# Node Files #
+/node_modules
+/bower_components
 npm-debug.log
-node_modules/
+
 *_git-remotes/
 dist/
 logs/
